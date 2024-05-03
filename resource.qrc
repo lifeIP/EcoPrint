@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/page/0">
+        <file>resources/usb_storage_adapter_flash_icon_186843.png</file>
+    </qresource>
+</RCC>
